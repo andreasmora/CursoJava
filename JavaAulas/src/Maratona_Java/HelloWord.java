@@ -1,4 +1,4 @@
-package com.java;
+package Maratona_Java;
 
 public class HelloWord {
     public static void main(String[] args) {
