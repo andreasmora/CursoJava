@@ -9,6 +9,7 @@ public class TiposPrimitivos {
         String nomeEsposa = "Aline";
         String nomeCachorro = "Jan Jan";
 
+        System.out.println(idade);
         System.out.println(nome);
         System.out.println(nomeEsposa);
         System.out.println(nomeCachorro);
