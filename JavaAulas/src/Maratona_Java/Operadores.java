@@ -1,10 +1,8 @@
 package Maratona_Java;
 
-import java.util.Scanner;
-
 public class Operadores {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+
 
         int resultado = 1 + 2;
         System.out.println("O resultado é: " + resultado);
