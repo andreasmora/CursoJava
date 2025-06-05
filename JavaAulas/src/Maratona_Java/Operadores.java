@@ -4,7 +4,7 @@ public class Operadores {
     public static void main(String[] args) {
 
 
-        int resultado = 1 + 2;
+        int resultado = 2 + 2;
         System.out.println("O resultado é: " + resultado);
 
         resultado = resultado + 1;
@@ -19,7 +19,8 @@ public class Operadores {
         resultado = resultado / 2;
         System.out.println(resultado);
 
-
+        resultado = resultado + 8;
+        System.out.println(resultado);
 
     }
 }
